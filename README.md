@@ -1,4 +1,4 @@
-# NYU DevOps Project Template
+# NYU DevOps Project 
 
 [![Build Status](https://github.com/CSCI-GA-2820-SU23-001/wishlists/actions/workflows/bdd.yml/badge.svg)](https://github.com/CSCI-GA-2820-SU23-001/wishlists/actions)
 [![Build Status](https://github.com/CSCI-GA-2820-SU23-001/wishlists/actions/workflows/tdd.yml/badge.svg)](https://github.com/CSCI-GA-2820-SU23-001/wishlists/actions)
