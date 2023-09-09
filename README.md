@@ -6,6 +6,19 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://python.org/)
 
+## Website
+
+![Website](./service/static/images/website.png)
+
+## Cluster
+
+![Website](./service/static/images/cluster.png)
+
+## Swagger
+
+![Swagger](./service/static/images/swagger.png)
+
+
 ## Overview
 
 Development of a eCommerce web application using microservices that offers five endpoints to handle wishlists and items within them. The project focuses on wishlists and items under them. Each endpoint should support CRUD (Create, Read, Update, Delete) operations, plus listing items making API calls.
@@ -23,18 +36,6 @@ To start, establish the development environment, database model was created usin
 ## Swagger Link
 
 [SWAGGER- Click here to check it out](http://169.51.204.177:31002/apidocs)
-
-## Website
-
-![Website](./service/static/images/website.png)
-
-## Cluster
-
-![Website](./service/static/images/cluster.png)
-
-## Swagger
-
-![Swagger](./service/static/images/swagger.png)
 
 ## Files
 
